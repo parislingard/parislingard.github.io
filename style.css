@@ -1,16 +1,17 @@
 * {
-    background-color:gray;
+  background-color: gray;
+  font-family: helvetica;
 }
 
 h1 {
     color: blue;
-    font-family: verdana;
     font-weight: bold;
+    text-align: center;
 }
 
 p {
-    color: gray;
-    font-family: verdana;
+    color: lightblue;
     font-weight: bold;
-    font-style: italic; 
+    font-style: italic;
+    text-align: center;
 }
