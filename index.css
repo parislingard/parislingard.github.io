@@ -14,7 +14,7 @@ body {
 
 a {
   color: rgb(206, 206, 206);
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* HERO */
@@ -64,7 +64,6 @@ a {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   background-color: rgb(56, 56, 56);
   text-align: center;
-  text-decoration: underline;
 }
 
 .portfolio-grid .portfolio-card img {
